@@ -1,0 +1,176 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+PUNTO_DE_VENTA_MAGBRICORP
+</name>
+</assembly>
+<members>
+<member name="P:PUNTO_DE_VENTA_MAGBRICORP.My.Resources.Resources.ResourceManager">
+	<summary>
+  Devuelve la instancia de ResourceManager almacenada en caché utilizada por esta clase.
+</summary>
+</member><member name="P:PUNTO_DE_VENTA_MAGBRICORP.My.Resources.Resources.Culture">
+	<summary>
+  Reemplaza la propiedad CurrentUICulture del subproceso actual para todas las
+  búsquedas de recursos mediante esta clase de recurso fuertemente tipado.
+</summary>
+</member><member name="P:PUNTO_DE_VENTA_MAGBRICORP.My.Resources.Resources.candado">
+	<summary>
+  Busca un recurso adaptado de tipo System.Drawing.Bitmap.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.My.Resources.Resources">
+	<summary>
+  Clase de recurso fuertemente tipado, para buscar cadenas traducidas, etc.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.MOSTRAR_MOVIMIENTOS_DE_KARDEXDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.mostrar_EmpresaDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_PERIODOS_EN_GENERALDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_VENDEDORDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_PERIODOS_EN_GENERAL_DE_KARDEXDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_CUENTAS_POR_COBRARDataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORTE_INVENTARIO_FISICO_VALORADODataTable">
+	<summary>
+Represents the strongly named DataTable class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.MOSTRAR_MOVIMIENTOS_DE_KARDEXRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.mostrar_EmpresaRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_PERIODOS_EN_GENERALRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_VENDEDORRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_PERIODOS_EN_GENERAL_DE_KARDEXRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_CUENTAS_POR_COBRARRow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORTE_INVENTARIO_FISICO_VALORADORow">
+	<summary>
+Represents strongly named DataRow class.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.MOSTRAR_MOVIMIENTOS_DE_KARDEXRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.mostrar_EmpresaRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_PERIODOS_EN_GENERALRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_VENDEDORRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_VENTAS_POR_PERIODOS_EN_GENERAL_DE_KARDEXRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORT_CUENTAS_POR_COBRARRowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet.REPORTE_INVENTARIO_FISICO_VALORADORowChangeEvent">
+	<summary>
+Row event argument class
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.MOSTRAR_MOVIMIENTOS_DE_KARDEXTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.mostrar_EmpresaTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.REPORT_VENTAS_POR_PERIODOS_EN_GENERALTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.REPORT_VENTAS_POR_VENDEDORTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.REPORT_VENTAS_POR_PERIODOS_EN_GENERAL_DE_KARDEXTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.REPORT_CUENTAS_POR_COBRARTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.REPORTE_INVENTARIO_FISICO_VALORADOTableAdapter">
+	<summary>
+Represents the connection and commands used to retrieve and save data.
+</summary>
+</member><member name="M:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.TableAdapterManager.UpdateUpdatedRows(PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet,System.Collections.Generic.List{System.Data.DataRow},System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Update rows in top-down order.
+</summary>
+</member><member name="M:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.TableAdapterManager.UpdateInsertedRows(PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Insert rows in top-down order.
+</summary>
+</member><member name="M:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.TableAdapterManager.UpdateDeletedRows(PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet,System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Delete rows in bottom-up order.
+</summary>
+</member><member name="M:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.TableAdapterManager.GetRealUpdatedRows(System.Data.DataRow[],System.Collections.Generic.List{System.Data.DataRow})">
+	<summary>
+Remove inserted rows that become updated rows after calling TableAdapter.Update(inserted rows) first
+</summary>
+</member><member name="M:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.TableAdapterManager.UpdateAll(PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSet)">
+	<summary>
+Update all changes to the dataset.
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.TableAdapterManager.UpdateOrderOption">
+	<summary>
+Update Order Option
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.TableAdapterManager.SelfReferenceComparer">
+	<summary>
+Used to sort self-referenced table's rows
+</summary>
+</member><member name="T:PUNTO_DE_VENTA_MAGBRICORP.BASEMACKEYSDataSetTableAdapters.TableAdapterManager">
+	<summary>
+TableAdapterManager is used to coordinate TableAdapters in the dataset to enable Hierarchical Update scenarios
+</summary>
+</member>
+</members>
+</doc>
